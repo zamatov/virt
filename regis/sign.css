@@ -1,0 +1,127 @@
+
+    /* Основные стили формы */
+    form {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 30px;
+      background-color: #f2f2f2;
+      border-radius: 5px;
+    }
+    
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    
+    .input-field {
+      margin-bottom: 20px;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    
+    input[type="text"], input[type="email"], input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      border: none;
+      background-color: #fff;
+      box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    }
+    
+    .submit-button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      border: none;
+      background-color: #008CBA;
+      color: #fff;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.2s ease-in-out;
+        margin-top: 20px;
+    }
+
+    .reset{
+        width: 25px;
+    }
+    
+    /* Анимация при наведении на кнопку */
+    .submit-button:hover {
+      background-color: #006f9e;
+      transform: translateY(-3px);
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    /* Анимация при нажатии на кнопку */
+    .submit-button:active {
+      transform: translateY(0px);
+      box-shadow: none;
+    }
+    
+    /* Анимация для поля ввода при получении фокуса */
+    input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus {
+      outline: none;
+      box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    /* Анимация для поля ввода при наведении на него */
+    .input-field:hover input[type="text"], .input-field:hover input[type="email"], .input-field:hover input[type="password"] {
+      transform: translateY(-3px);
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    /* Анимация для поля ввода при отведении от него */
+    .input-field input[type="text"], .input-field input[type="email"], .input-field input[type="password"] {
+      transition: all 0.2s ease-in-out;
+      }
+      
+      /* Анимация для метки поля ввода при получении фокуса */
+      .input-field input[type="text"]:focus + label, .input-field input[type="email"]:focus + label, .input-field input[type="password"]:focus + label {
+      transform: translateY(-25px);
+      font-size: 14px;
+      color: #008CBA;
+      }
+      
+      /* Анимация для метки поля ввода при наведении на поле ввода */
+      .input-field:hover input[type="text"] + label, .input-field:hover input[type="email"] + label, .input-field:hover input[type="password"] + label {
+      color: #008CBA;
+      }
+      
+      /* Анимация для метки поля ввода при отведении от поля ввода */
+      .input-field input[type="text"]:valid + label, .input-field input[type="email"]:valid + label, .input-field input[type="password"]:valid + label {
+      transform: translateY(-25px);
+      font-size: 14px;
+      color: #008CBA;
+      }
+      
+      /* Анимация для метки поля ввода при наличии значения в поле ввода */
+      .input-field input[type="text"]:not(:placeholder-shown) + label, .input-field input[type="email"]:not(:placeholder-shown) + label, .input-field input[type="password"]:not(:placeholder-shown) + label {
+      transform: translateY(-25px);
+      font-size: 14px;
+      color: #008CBA;
+      }
+      /* Стиль для поля ввода с ошибкой */
+    .input-field.error input[type="text"], .input-field.error input[type="email"], .input-field.error input[type="password"] {
+      border-color: #ff0000;
+    }
+    
+    /* Стиль для метки поля ввода при ошибке */
+    .input-field.error input[type="text"] + label, .input-field.error input[type="email"] + label, .input-field.error input[type="password"] + label {
+      color: #ff0000;
+    }
+    
+    /* Стиль для текста ошибки */
+    .error-message {
+      display: none;
+      color: #ff0000;
+    }
+    
+    .input-field.error .error-message {
+      display: block;
+    }
+    

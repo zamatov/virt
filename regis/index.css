@@ -1,0 +1,185 @@
+ *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width:100%;
+    max-width: 1290px;
+    margin:0 auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    column-gap: 100px;
+}
+
+.btn-oval {
+  display: inline-block;
+  width: 240px;
+  height: 70px;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  background: linear-gradient(135deg, #FF6B6B 0%, #FFA07A 100%);
+  border-radius: 50px;
+  border: none;
+  font: bold 30px/70px Arial;
+  box-shadow: 0 10px 15px rgba(255, 107, 107, 0.4);
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease-out;
+}
+
+.btn-oval:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #FF6B6B 0%, #FFA07A 100%);
+  opacity: 0.6;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease-out;
+}
+
+.btn-oval:hover {
+  transform: translateY(-5px);
+}
+
+.btn-oval:hover:before {
+  transform: translateX(0%);
+}
+
+.btn-oval:active {
+  transform: scale(0.95);
+  box-shadow: 0 5px 10px rgba(255, 107, 107, 0.4);
+}
+
+  .input{
+    border-radius:10px;
+    width:300px;
+    
+    height:50px;
+    font-size: 24px;
+    
+    margin-top:20px;
+  }
+   ::placeholder {
+   display:grid;
+    letter-spacing: 2px;
+    font-size: 24px;
+  }
+  
+
+  .card {
+    width: 400px;
+    height: 500px;
+    background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+    border-radius: 20px;
+    transition: all .3s;
+   }
+   
+   .card2 {
+    padding:40px;
+    width: 400px;
+    height: 500px;
+    background-color: #1a1a1a;
+    border-radius:10px;
+    transition: all .2s;
+    
+   }
+   
+   .card2:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+   }
+   
+   .card:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+   }
+   .input {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    font-weight: 500;
+    color: #fff;
+    background-color: rgb(48, 48, 50);
+    box-shadow: 0 0 .4vw rgba(0,0,0,0.5), 0 0 0 .15vw transparent;
+    border-radius: 0.4vw;
+    border: none;
+    outline: none;
+    padding: 0.4vw;
+    transition: .4s;
+  }
+  .input:hover {
+    box-shadow: 0 0 0 .15vw rgba(135, 207, 235, 0.186);
+  }
+  .input:focus {
+    box-shadow: 0 0 0 .15vw #AF40FF; 
+  }
+   button {
+    margin-top:30px;
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 24px;
+    letter-spacing: 2px;
+    justify-content: center;
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all .3s;
+    width:300px;
+   }
+   button:active,
+   button:hover {
+    outline: 0;
+   }
+   button span {
+    background-color: rgb(5, 6, 45);
+    padding: 16px 24px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+   }
+   button:hover span {
+    background: none;
+   }
+   button:active {
+    transform: scale(0.9);
+   }
+   html, body {
+    width: 100%;
+    height:100%;
+  }
+  body {
+      background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+  }
+  @keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }
+  }

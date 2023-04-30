@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0230b85-2285-40e3-89ba-f4d5e96ad3a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/virtual_lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/icons8-facebook-новый.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/icons8-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/icons8-youtube-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/10867308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1640832817_1-abrakadabra-fun-p-ava-vorona-iz-bravo-stars-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2019-06-02-image-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3d-render-people-playing-computer_456052-14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3d_vs_2d_video_games-1024x576.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Group 39214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Mask Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/The-difference-between-2D-and-3D-video-games_Osiris_ New Dawn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/city-racing-screenshot-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/desolate-review-pc-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/doom_eternal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game11.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game6.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/game92.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/reset2.0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/s4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spiderman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/3dimg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/4dimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/5dimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/7-visually-stunning-pc-games-with-best-gaming-graphics.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/metasign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/story1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/team1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img2/team5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regis/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regis/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regis/regis.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regis/regis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regis/sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regis/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P6jq3O0ofJhuga2vtmdAT66ZiN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Desktop/virtual_lab/img&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\virtual_lab\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.about.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/virtual_lab/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/virtual_lab/regis/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.about.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0230b85-2285-40e3-89ba-f4d5e96ad3a2" name="Changes" comment="" />
+      <created>1682784629190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682784629190</updated>
+      <workItem from="1682784640346" duration="5018000" />
+      <workItem from="1682865476664" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
